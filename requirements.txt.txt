@@ -1,0 +1,11 @@
+Python 3.8+
+
+PyTorch (CPU or CUDA version)
+
+OpenCV
+
+Scenedetect
+
+Transformers
+
+Pillow
