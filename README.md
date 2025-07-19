@@ -1,5 +1,4 @@
 Video Scene Analyzer with AI Summarization 🎬🤖
-https://demo.gif Example of scene detection and summarization in action
 
 A powerful Python pipeline that automatically detects scene changes in videos and generates AI-powered summaries with precise timestamps. Perfect for video editors, content analysts, and AI enthusiasts!
 
@@ -17,7 +16,7 @@ Key Features ✨
 Installation 💻
 
 # Clone the repository
-git clone https://github.com/yourusername/video-scene-analyzer.git
+git clone https://github.com/rebal-web/scene_detection.git
 cd video-scene-analyzer
 
 # Create virtual environment (recommended)
